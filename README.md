@@ -1,6 +1,6 @@
 # CMS
 Herkese Merhaba,
-PHP tabanlı + Bootstrap Template ile hazırlanmış  Müşteri Yönetim Sistemi bu projemde bulunmaktadır.
+PHP tabanlı + Bootstrap Template ile hazırlanmış  Randevu Yönetim Sistemi bu projemde bulunmaktadır.
 Özellikler:
 Müşteri Ekleme,Güncelleme,Silme, Excelden yükleme
 Randevu Oluşturma,Durumlarını Görüntüleme
